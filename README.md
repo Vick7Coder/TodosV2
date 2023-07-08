@@ -11,7 +11,7 @@ Nếu gặp lỗi Docker load do mạng có thể dùg h2-database để thực 
 Sau đó, chúng ta có thể connect với navicat bằng username password trên để quản lí db hoặc dùng lệnh \connect todos-user@localhost:3306
 trên mysql shell.
 
-ĐẶC BIỆT LƯU Ý: vì prj dùng mysql container với docker nên mỗi lần chạy prj cần vào docker chạy database của prj.
-Hi vọng prj trên có thể làm nguồn tài liệu cho các bạn trong quá trình học tập Spring Framework.
-Trân trọng!
-Phạm Hồng Hiệu
+ĐẶC BIỆT LƯU Ý: vì prj dùng mysql container với docker nên mỗi lần chạy prj cần vào docker chạy database của prj.  
+Hi vọng prj trên có thể làm nguồn tài liệu cho các bạn trong quá trình học tập Spring Framework.  
+Trân trọng!  
+Phạm Hồng Hiệu  
