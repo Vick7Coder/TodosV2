@@ -1,6 +1,6 @@
 # TodosV2
-Warming: source chỉ phục vụ mục đích học tập nên chắc chắn sẽ còn nhiều thứ không tuyệt vời như sản phẩm thương mại.  
-mục đích của việc share source của tác giả là share nguồn học liệu cho người mới  
+**Warming:** *source chỉ phục vụ mục đích học tập nên chắc chắn sẽ còn nhiều thứ không tuyệt vời như sản phẩm thương mại.  
+mục đích của việc share source của tác giả là share nguồn học liệu cho người mới.*  
 Prj sử dụng Reactjs và call Api về Spring nên khi chạy cần chạy java và npm start trong cmd để chạy code reatjs   
 Db được sử dụng là mySql image của Docker nếu muốn dùng thì chạy lệnh sau:  
 Vậy nên ta cần chạy lệnh sau với docker trước khi run prj:
